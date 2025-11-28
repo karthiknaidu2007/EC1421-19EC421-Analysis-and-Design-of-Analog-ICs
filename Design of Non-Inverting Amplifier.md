@@ -16,7 +16,13 @@ ACL = 1 + ( RF / R1)
 
 ## CIRCUIT DIAGRAM:
 
+![WhatsApp Image 2025-11-28 at 22 32 39_7aa43af3](https://github.com/user-attachments/assets/9f3c645f-f89c-4cc3-8202-4e5cd0e2d849)
+
+![WhatsApp Image 2025-11-28 at 22 45 05_e0399763](https://github.com/user-attachments/assets/0c6de114-b6d2-4100-9c65-46864a7ad676)
+
 ## MODEL GRAPH:
+
+![WhatsApp Image 2025-11-28 at 22 44 38_ae3323ed](https://github.com/user-attachments/assets/c06b60ac-32a1-44df-b9be-279dafe311e3)
 
 ## PROCEDURE:
 ### Non-Inverting Amplifier
@@ -33,9 +39,15 @@ ACL = 1 + ( RF / R1)
 
 ## TABULATION:
 
+![WhatsApp Image 2025-11-28 at 22 43 31_122c67a4](https://github.com/user-attachments/assets/ed4747a0-93a1-4966-8d08-dfa44a383178)
+
 ## CALCULATIONS:
 
+![WhatsApp Image 2025-11-28 at 22 42 51_ca981708](https://github.com/user-attachments/assets/e10acfce-1bfb-4ec1-9071-bb30b357c9fa)
+
 ## GRAPH:
+
+![WhatsApp Image 2025-11-28 at 22 44 14_33eb0435](https://github.com/user-attachments/assets/37ae6404-d4a5-48b0-a850-6f04f949ecae)
 
 ## RESULT:
 Thus the Non-Inverting Amplifier are designed and their performance was successfully tested using op-amp IC 741.
